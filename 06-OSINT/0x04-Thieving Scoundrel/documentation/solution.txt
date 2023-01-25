@@ -1,0 +1,7 @@
+- Name leads to LinkedIn profile
+- In job history, there is mention of a suspecious name "Steven Willburg"
+- Go to Steven Willburg LinkedIn
+- Steven has suspecious job history. Included worked time at a storage facility
+- Look up storage facility. Flag is phone number of facility
+
+FLAG: retroCTF{7053891114}

@@ -1,0 +1,36 @@
+attempts: 0
+author: Shaq
+category: OSINT
+connection_info: 
+description: OPEN MISSION PORTAL...
+
+Connection Established...
+
+Loading Agent data...
+
+... Agent 65 , ALIAS:bookworm , UserID:02556
+... Agent 25 , ALIAS:sherbert , UserID:47861
+
+Welcome Agent 65.
+Recently, our phone number was stolen and is currently being used by an unknown source. Your mission, should you choose to accept it, is to locate and retrieve our phone number and bring it back home. For this mission, you are paired with Agent 25. Good luck.
+
+*NOTE*: Please do not call the phone number. You only need the digits, that's it.
+Enter the phone number (no spaces or dashes) ->
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{358505925603}
+hints:
+- content: Each Agent is assigned a User ID that is used alongside their Agent number. Both Agent numbers and User IDs are needed when contacting and assigning missions to Agents.
+  cost: 0
+name: Locate Phone Number
+requirements:
+- 
+state: visible
+tags:
+- medium
+type: dynamic
+value: 100
+version: '0.1'

@@ -1,0 +1,27 @@
+attempts: 0
+author: Shaq
+category: OSINT
+connection_info: 
+description: What a great vacation away with the family! The highlight of my trip was visiting these remote mountains near the lake.
+If only I could remember the coordinates of this gas station, I would love to visit there again. Oh well, it's the
+memories that matter.
+
+Submit coordinates to the nearest thousandth as: retroCTF{xx.xxx,xx.xxx) --> 
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{47.553,13.648}
+hints:
+- content: Definitely going to stay at the Inn next time. It looked very welcoming.
+  cost: 0
+name: Vacation Spot
+requirements:
+- 
+state: visible
+tags:
+- beginner
+type: dynamic
+value: 100
+version: '0.1'

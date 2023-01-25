@@ -1,0 +1,6 @@
+CREDENTIAL LEAK
+
+username: mallorymalone1
+password: qNvTuP8aORkQ%9u29cZWgZ&@
+
+FLAG: retroCTF{k33p_y0ur_cr3dent1al5_pr1vat3}

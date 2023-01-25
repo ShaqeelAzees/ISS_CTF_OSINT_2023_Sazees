@@ -1,0 +1,4 @@
+-> _thr4ck3rb0y_ leads to twitter account
+-> Must use waybackmachine to find deleted tweet with flag
+
+FLAG: retroCTF{Johnathan_Smithsonian}

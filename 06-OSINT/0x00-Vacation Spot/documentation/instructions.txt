@@ -1,0 +1,5 @@
+What a great vacation away with the family! The highlight of my trip was visiting these remote mountains near the lake.
+If only I could remember the coordinates of this gas station, I would love to visit there again. Oh well, it's the
+memories that matter.
+
+Submit coordinates to the nearest thousandth as: retroCTF{xx.xxx,xx.xxx) --> 

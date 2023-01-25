@@ -1,0 +1,3 @@
+The gas station name is used to find the location and the coordinates
+
+FLAG: retroCTF{47.553,13.648}

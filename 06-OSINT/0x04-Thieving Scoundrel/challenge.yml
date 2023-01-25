@@ -1,0 +1,31 @@
+attempts: 0
+author: Shaq
+category: OSINT
+connection_info: 
+description: Help Us!
+
+Recently, we got a notice through law enforcement that there was a storage unit at a local storage shop under the name "William Jackson" that is deemed to be suspecious. We don't know if that name is the owner of the unit or a victim. The only information we know is William is an Operations Manager at Enbridge. If you can get us the phone number of the storage shop, we can contact them to notify them that authorities have begun their investigation.
+
+*NOTE*: Please do not call the phone number. You only need the digits, that's it.
+Enter the phone number (no spaces or dashes) ->
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{7053891114}
+hints:
+- content: Camp counsellors don't always know the right thing.
+  cost: 0
+hints:
+- content: Storage facilities can be used to hold big things.
+  cost: 0  
+name: Thieving Scoundrel
+requirements:
+- 
+state: visible
+tags:
+- medium
+type: dynamic
+value: 100
+version: '0.1'

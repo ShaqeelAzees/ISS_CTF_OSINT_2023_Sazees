@@ -1,0 +1,34 @@
+attempts: 0
+author: Shaq
+category: OSINT
+connection_info: 
+description: 
+Greetings Commander,
+
+Case# 3517624 , open for progress...
+
+According to commanders, there have been recent sightings of unusual activity. The image below is one example of an area that has been reported to include heavy involvements of questionable activities. Please review and report your findings to us.
+
+Submit the flag as retroCTF{flag}->
+
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{gameboy}
+hints:
+- content: Sometimes... street names, addresses, numbers don't mean a thing. I find I see key information through terrain views.
+  cost: 0
+hints:
+- content: The case number is not a random number
+  cost: 0
+name: Landmarks
+requirements:
+- 
+state: visible
+tags:
+- beginner
+type: dynamic
+value: 100
+version: '0.1'

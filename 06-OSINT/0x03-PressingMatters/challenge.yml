@@ -1,0 +1,25 @@
+attempts: 0
+author: Christopher
+category: OSINT
+connection_info: https://randomwebsite.azurewebsites.net/
+description: WHOOSH, you found yourself in 2008 at the creation of a new website talking about version control. Can you find the flag? (psst - No bruteforcing or injection is required)
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{k33p_y0ur_cr3dent1al5_pr1vat3}
+hints:
+- content: What does 'wp' stand for?
+  cost: 0
+- content: Check the content for clues.
+  cost: 0
+name: Pressing Matters
+requirements:
+- CoC
+state: visible
+tags:
+- easy
+type: dynamic
+value: 100
+version: '0.1'

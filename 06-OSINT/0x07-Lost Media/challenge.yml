@@ -1,0 +1,23 @@
+attempts: 0
+author: Jack
+category: OSINT
+connection_info: 
+description: Oh Snap! I remember listening to this tubular song but it can't remember what its name was. I'm sure the ultimate ISS exec would know but I can't remember who that is either.
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{wowthisissucharacket}
+hints:
+- content: I know there's a site where I can find info on Sheridan club's but I can't remember what it was. 
+  cost: 0
+name: Lost Media
+requirements:
+- 
+state: visible
+tags:
+- medium
+type: dynamic
+value: 100
+version: '0.1'

@@ -1,0 +1,7 @@
+> Scan QR code in image
+> Opens a text document with coords
+> Coords spell out a word, but word isn't an actual word
+> Use case number to put letters in correct order
+> Spells gameboy
+
+Flag: retroCTF{gameboy}

@@ -1,0 +1,6 @@
+1. Find out Reginald Boodreau is the ultimate ISS exec on clubs corner.
+2. Find Reginald Boodreau's twitter and see the "Pusha TCP's music" tweet
+3. Find Pusha TCP on Soundcloud
+4. Listen to the song
+
+FLAG: retroCTF{wowthisissucharacket}

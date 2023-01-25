@@ -1,0 +1,23 @@
+attempts: 0
+author: Shaq
+category: OSINT
+connection_info: 
+description: I got hacked!! All my precious data and information is stolen and gone forever. None of my passwords are working anymore and the only thing I have left is my email. I received an email from someone named "_thr4ck3rb0y_" saying they have all my information and my life is ruined. If I can get their full name, I am one step closer to getting everything back.
+extra:
+  decay: 30
+  initial: 100
+  minimum: 30
+flags:
+- retroCTF{Johnathan_Smithsonian}
+hints:
+- content: The delete button is a life saver sometimes.
+  cost: 0
+name: Find the Criminal
+requirements:
+- 
+state: visible
+tags:
+- beginner
+type: dynamic
+value: 100
+version: '0.1'

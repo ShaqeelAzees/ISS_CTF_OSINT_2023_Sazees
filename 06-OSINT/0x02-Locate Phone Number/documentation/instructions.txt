@@ -1,0 +1,14 @@
+OPEN MISSION PORTAL...
+
+Connection Established...
+
+Loading Agent data...
+
+... Agent 65 , ALIAS:bookworm , UserID:02556
+... Agent 25 , ALIAS:sherbert , UserID:47861
+
+Welcome Agent 65.
+Recently, our phone number was stolen and is currently being used by an unknown source. Your mission, should you choose to accept it, is to locate and retrieve our phone number and bring it back home. For this mission, you are paired with Agent 25. Good luck.
+
+*NOTE*: Please do not call the phone number. You only need the digits, that's it.
+Enter the phone number (no spaces or dashes) ->

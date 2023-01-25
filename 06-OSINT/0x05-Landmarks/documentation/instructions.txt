@@ -1,0 +1,7 @@
+Greetings Commander,
+
+Case# 3517624 , open for progress...
+
+According to other commanders, there have been recent sightings of unusual activity. The image below is one example of an area that has been reported to include heavy involvements of questionable activities. Please review and report your findings to us.
+
+Submit the flag as retroCTF{flag}->

@@ -1,0 +1,1 @@
+Storage facilities can be used to hold big things

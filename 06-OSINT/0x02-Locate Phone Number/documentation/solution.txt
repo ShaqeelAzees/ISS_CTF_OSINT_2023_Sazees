@@ -1,0 +1,5 @@
+-> Use agent number and user id to get coordinates
+-> 65.02556, 25.47861
+-> Coords go to movie shop. Flag is movie shop's phone number
+
+FLAG: retroCTF{358505925603}
